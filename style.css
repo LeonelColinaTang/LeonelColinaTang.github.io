@@ -658,13 +658,13 @@ xclip
 	margin-bottom: 30px;
 }
 .ser-icon{
-	width: 90px;
+	/* width: 90px; */
 	height: 90px;
 	text-align: center;
 	line-height: 90px;
 }
 .ser-icon i{
-	font-size: 50px;
+	font-size: 100px;
 	color: #333333;
 }
 .services-inner-box h2{
