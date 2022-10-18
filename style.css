@@ -2169,10 +2169,8 @@ select.mobile-device {
 .footer-links a {
     color: #999;
     width: 30px;
-    /* background: gray; */
     fill: white;
-    /* padding: 5px; */
-    /* border-radius: 5px; */
+
 }
 
 .footer-links a:hover,
