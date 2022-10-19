@@ -1279,11 +1279,12 @@ xclip
 }
 
 .hoverbutton {
-    background-color: #333333;
-    position: absolute;
+    /* background-color: #333333; */
+    /* position: absolute; */
     color: #ffffff !important;
     top: 70%;
-    font-size: 21px;
+    /* font-size: 21px; */
+    font-size: 50px;
     z-index: 12;
     left: 0;
     opacity: 0;
@@ -1468,6 +1469,9 @@ hr.invis1 {
     z-index: 2;
     -webkit-transform: translateY(10px);
     transform: translateY(10px);
+    display: flex;
+            /* justify-content: center; */
+    align-items: center;
 }
 
 .gallery-list .gallery-single:hover .img-overlay {
